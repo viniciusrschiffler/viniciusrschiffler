@@ -1,4 +1,4 @@
-<h1 align="center">Vinicius Rocha Schiffler</h1>
+<h1 align="center"><marquee>Vinicius Rocha Schiffler</marquee></h1>
 
 - Curso **Técnico em Informática** completo na **FAETERJ**
 - Cursando **Desenvolvedor Full stack** na Residência em TIC/Software do **Serratec**
